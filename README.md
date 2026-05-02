@@ -6,6 +6,6 @@
 </a>
 </p>
 
-### Test my Machine Learning project focused on [arboviruses](https://arbovirus.streamlit.app).
+### Visit my [portfolio](https://pedroryandatadev.github.io/portfolio/).
 
-It was developed with an interactive and intuitive interface, allowing users to perform tests in a practical way. The system uses a predictive Machine Learning model, trained by me, to assist in diagnosis as a screening tool, providing support in the initial identification of possible cases.
+Explore my projects, achievements, and get a more complete view of my profile.
